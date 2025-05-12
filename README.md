@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi there, I'm Kiwon Kim!
 
-<!--
-**KimKiWon0105/KimKiWon0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a freshman in university, exploring the world of cybersecurity.  
+🛡️ Dreaming to become an **Information Security Specialist** who protects what matters.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I'm Interested In
+
+- 🧩 Cybersecurity & Ethical Hacking  
+- 🔐 Web Vulnerability & Penetration Testing  
+- 🛠️ Building secure, responsible systems
+
+---
+
+## 📚 What I'm Learning
+
+- `Python` for scripting and automation  
+
+---
+
+## 🛠️ Tools I Use
+
+![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Version_Control-Git-orange?logo=git&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![Kiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimKiWon0105&show_icons=true&theme=gruvbox)
+
+---
+
+## 📬 Let's connect!
+
+[![Email](https://img.shields.io/badge/email-contact%40example.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:kimkiwon2005@gmail.com)
